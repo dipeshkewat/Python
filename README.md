@@ -7,16 +7,12 @@ This repo includes basic to intermediate level programs, notes, and exercises th
 
 📌 What to Expect:
 Simple Python scripts for practice
-
 Code examples of various concepts (loops, functions, lists, etc.)
-
 My progress as I learn and grow in Python
 
 💻 Why I'm Doing This:
 To stay consistent with learning
-
 To track my daily progress
-
 To help others who are also beginning their Python journey
 
 Feel free to explore, learn with me, or suggest improvements.
